@@ -39,5 +39,8 @@ npm start
 
 // Update values from auth0 in App.js file.
 
+src/App.js
+```
 clientID: '',
 domain: ''
+```
