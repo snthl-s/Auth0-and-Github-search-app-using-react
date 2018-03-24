@@ -17,7 +17,7 @@ This is simple web application to search the profile from github using ReactJS a
   
 ### Project setup
 // clones project into *Auth0-and-Github-search-app-using-react.git* folder
-git clone git@bitbucket.org:snthl-s/Auth0-and-Github-search-app-using-react.git
+git clone https://github.com/snthl-s/Auth0-and-Github-search-app-using-react.git
 
 cd Auth0-and-Github-search-app-using-react/
 
